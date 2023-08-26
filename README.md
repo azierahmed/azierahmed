@@ -1,16 +1,18 @@
-### Hi there 👋
+# 👋 Hello, I'm Ahmed Azier
 
-<!--
-**azierahmed/azierahmed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Passionate Full Stack Dev 🚀 | Entrepreneur 💼
 
-Here are some ideas to get you started:
+## 💼 What I Do
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Crafting web applications that make a difference.
+📈 Building startups from the ground up.
+🎨 Designing user-centered digital experiences.
+🔧 Tech Enthusiast | 📈 Start-up Enabler
+
+## 🔧 Tech Toolbox
+
+🌐 React, Node.js, PHP, Python, and More
+🗄️ MongoDB, MySQL
+🐳 Docker, Git
+
+## 📫 Let's Connect
